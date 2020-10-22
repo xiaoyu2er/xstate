@@ -11,7 +11,32 @@
     "@xstate/scxml": "0.2.1",
     "@xstate/test": "0.1.0",
     "@xstate/viz": "0.1.0",
-    "@xstate/viz-example": "1.0.0"
+    "@xstate/viz-example": "1.0.0",
+    "@xstate/vue": "0.3.0"
   },
-  "changesets": []
+  "changesets": [
+    "blue-ladybugs-retire",
+    "bright-needles-visit",
+    "chatty-wombats-worry",
+    "eight-guests-wait",
+    "eighty-coins-tease",
+    "fast-tables-design",
+    "five-ravens-own",
+    "flat-clouds-greet",
+    "funny-spiders-push",
+    "green-apes-heal",
+    "hip-ways-rush",
+    "lucky-bulldogs-march",
+    "lucky-vans-compare",
+    "poor-flowers-end",
+    "rare-phones-whisper",
+    "rotten-rivers-wonder",
+    "shiny-apes-press",
+    "shy-walls-develop",
+    "sixty-hornets-allow",
+    "slow-apples-dance",
+    "thin-teachers-approve",
+    "wise-wombats-invite",
+    "witty-hounds-invent"
+  ]
 }
